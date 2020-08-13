@@ -1,0 +1,35 @@
+System Requirements
+This Code uses tensorflow=1.15 & keras=2.2.4. If you use latest version of tensorflow and keras it wont work.
+
+Install Tensorflow
+'pip install tensorflow==1.15'
+
+Install Keras
+'pip install keras=2.2.4'
+
+For model.py
+- Carla (Version=0.9.5 Windows & Version=0.9.6 LINUX)
+- random
+- os
+- cv2
+- time
+- math
+- numpy
+- sys
+- tqdm
+
+For drive.py
+for model
+-keras
+-glob 
+-os
+-sys
+-random
+-time
+-numpy
+-cv2
+-math
+-tensorflow
+-threading
+-tqdm
+
