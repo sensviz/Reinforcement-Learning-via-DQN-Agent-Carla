@@ -31,19 +31,18 @@ For model.py
 - tqdm
 
 For drive.py
-for model
--keras
--glob 
--os
--sys
--random
--time
--numpy
--cv2
--math
--tensorflow
--threading
--tqdm
+- keras
+- glob 
+- os
+- sys
+- random
+- time
+- numpy
+- cv2
+- math
+- tensorflow
+- threading
+- tqdm
 
 #Running The Code
 For model.py
