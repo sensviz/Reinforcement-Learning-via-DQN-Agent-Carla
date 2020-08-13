@@ -9,7 +9,7 @@ Using CARLA, we can get all in a single simulation platform;
 - Like LIDAR, cameras, accelerometers, and so on.
 We can use both 0.9.6 on Linux and 0.9.5 on Windows.
 
-#System Requirements
+# System Requirements
 
 Carla works with python = 3.7
 This Code uses tensorflow=1.15 & keras=2.2.4. If you use latest version of tensorflow and keras it wont work.
@@ -45,7 +45,7 @@ For drive.py
 - threading
 - tqdm
 
-#Running The Code
+# Running The Code
 
 For model.py
 - 'python model.py'
