@@ -46,6 +46,7 @@ For drive.py
 
 #Running The Code
 For model.py
-'python model.py'
+- 'python model.py'
 For drive.py
-'python drive.py modelname.model'
+- 'python drive.py modelname.model'
+For more information == https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/
